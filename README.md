@@ -10,7 +10,7 @@
 <a href="http://youtube.com/channel/UCzmQkP1n4XCer2i5cpyHQLA" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=zulhendryms&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zulhendryms" width="700">
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
