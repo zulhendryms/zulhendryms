@@ -29,9 +29,9 @@ I'm Zulhendry. A Web Developer, Software Developer and and Open Source Enthusias
 <!-- ![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B19%25) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=zulhendryms&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for zulhendryms" width="700">
-![](https://github-readme-stats.vercel.app/api?username=zulhendryms&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zulhendryms&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zulhendryms&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![@zulhendry](https://github-readme-stats.vercel.app/api?username=zulhendryms&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![zulhendry](https://github-readme-streak-stats.herokuapp.com/?user=zulhendryms&theme=dark&hide_border=true)<br/>
+![zulhendry](https://github-readme-stats.vercel.app/api/top-langs/?username=zulhendryms&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
