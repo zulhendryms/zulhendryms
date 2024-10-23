@@ -7,9 +7,10 @@ I'm Zulhendry. A Web Developer, Software Developer and and Open Source Enthusias
   </samp>
 </p>
 
-### Find me all around the web:
 
 <!-- 
+### Find me all around the web:
+
 <p align="left">
 <a href="http://twitter.com/zulhndryms" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="http://linkedin.com/in/zulhendryms" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
