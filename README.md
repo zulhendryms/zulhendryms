@@ -32,10 +32,6 @@ I'm Zulhendry. A Web Developer, Software Developer and and Open Source Enthusias
 ![Laravel](https://github-readme-streak-stats.herokuapp.com/?user=zulhendryms&theme=dark&hide_border=true)<br/>
 ![Laravel](https://github-readme-stats.vercel.app/api/top-langs/?username=zulhendryms&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 zulhendryms/zulhendryms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
